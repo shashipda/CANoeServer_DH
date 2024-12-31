@@ -54,7 +54,7 @@ jobs:
 
       - name: Run a one-line script 
 
-        shell: bash 
+        shell: powershell 
 
         run: nohup C:/Users/Public/Documents/Vector/CANoe Server Edition/18 (x64)/Samples/CANGateway/run.ps1 & 
 
