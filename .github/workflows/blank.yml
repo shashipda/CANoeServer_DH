@@ -56,7 +56,7 @@ jobs:
 
         shell: powershell 
 
-        run: D:/CANoeServer/SOMEIPBasicAutosar/run.ps1
+        run: C:/Old_D/D/CANoeServer/SOMEIPBasicAutosar/run.ps1
 
                      
 
