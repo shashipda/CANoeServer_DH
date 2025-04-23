@@ -56,7 +56,7 @@ jobs:
 
         shell: powershell 
 
-        run: C:/Old_D/D/CANoeServer/SOMEIPBasicAutosar/run.ps1
+        run: D:/shashi/vector/CANoe_Server/demos/CANGateway/run.ps1
 
                      
 
